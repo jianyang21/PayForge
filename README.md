@@ -42,8 +42,6 @@ FAILED / REFUNDED
 ---
 
 
----
-
 ## API Endpoints
 
 - `POST /payments`
